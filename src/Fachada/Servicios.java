@@ -10,7 +10,7 @@ import prototipo.Utilitario.Utilitario;
  *
  * @author Deibys
  */
-// prueba de commit
+// prueba de committttt
 public class Servicios {
     
     public boolean procesaEgresoManual(String parametro) {
