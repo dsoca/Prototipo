@@ -5,7 +5,6 @@
 package protoipo.UI;
 
 import Fachada.Fachada;
-import java.awt.Color;
 import java.awt.Dialog.ModalExclusionType;
 import prototipo.Utilitario.*;
 
