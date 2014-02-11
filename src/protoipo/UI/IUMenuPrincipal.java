@@ -17,6 +17,7 @@ public class IUMenuPrincipal extends javax.swing.JFrame {
     /**
      * Creates new form IUMenuPrincipal
      */
+    //preuba..
     private IUEgresosC frmEgresos = null;
     private IUIngreso frmIngreso = null;
     private IUBusAni frmBusqueda = null;
